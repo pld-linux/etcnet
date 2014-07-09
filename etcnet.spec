@@ -2,6 +2,7 @@
 # - pld dependencies
 # - pld files
 # - ...!
+# - relocate static scripts in /etc/net to /lib/etcnet or patch etckeeper to ignore the files to fix etckeeper tracking etcnet code
 Summary:	/etc/net network configuration system
 Name:		etcnet
 Version:	0.9.10
